@@ -1,2 +1,4 @@
 # git-command
-常用git命令
+
+##查看合并情况
+* git log --graph --pretty=oneline --abbrev-commit 
